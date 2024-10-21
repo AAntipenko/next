@@ -2,7 +2,9 @@
 
 ## Overview
 
-Here, you'll find various email templates for different purposes. All email templates are designed to be adaptable to different languages.
+Here, you'll find various email templates for different purposes.&#x20;
+
+All email templates are designed to be adaptable to different languages.
 
 Special keywords can be utilized to construct your email templates.
 
