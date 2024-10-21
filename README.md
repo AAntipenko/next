@@ -26,9 +26,7 @@ Whether you're managing visitor access, setting up self-service kiosks, or deplo
 
 Our mission is to empower you to enhance customer experiences and optimize workflows with **German-engineered** hardware and our flexible, easy-to-use **cloud platform**. Dive in to discover how to configure devices, manage content, and integrate with your existing systems—all with minimal technical overhead and maximum efficiency.
 
-Thank you for choosing Friendlyway, where **innovation meets simplicity**.&#x20;
-
-Let’s get started!
+Thank you for choosing Friendlyway, where **innovation meets simplicity**.&#x20; Let’s get started!
 
 ### Jump right in
 
